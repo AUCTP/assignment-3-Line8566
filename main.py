@@ -1,4 +1,4 @@
-# Student: Line Lindskou Mgoensen
+# Student: Line Lindskou Mogensen
 
 ### Scenario
     #In this assignment, you will use Monte Carlo simulation to help a retail company manage its inventory.
